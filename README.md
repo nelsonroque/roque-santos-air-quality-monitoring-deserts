@@ -6,7 +6,7 @@
 
 **Manuscript ID**: 2024-25310R
 
-## Authors
+## Authors (lead author in bold)
 **Nelson A. Roque** (1,2)
 Hailey Andrews (2)
 Alexis R. Santos-Lozada (1,2)
@@ -22,11 +22,11 @@ Alexis R. Santos-Lozada (1,2)
 
 To replicate analyses in this publication, please follow the steps below.
 
-1) Open the `pipeline.Rproj` file in RStudio
+* Open the `pipeline.Rproj` file in RStudio
 
-2) Install all necessary packages
+* Install all necessary packages
 
-3) Run the code in the `pnas_manuscript_id_2024-25310R.R` file
+* Run the code in the `pnas_manuscript_id_2024-25310R.R` file
 
 -----
 # Correspondence
