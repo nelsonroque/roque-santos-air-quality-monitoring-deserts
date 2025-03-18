@@ -30,7 +30,7 @@ To replicate analyses in this publication, please follow the steps below.
 
 -----
 # Correspondence
-For any issues, please [create an issue](https://github.com/nelsonroque/roque-santos-air-quality-monitoring-deserts/issues).
+If you require any support, we ask that you please [create an issue](https://github.com/nelsonroque/roque-santos-air-quality-monitoring-deserts/issues).
 
 -----
 # Metadata
