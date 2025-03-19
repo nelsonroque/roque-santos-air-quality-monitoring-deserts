@@ -6,7 +6,7 @@ Here we provide the code and data needed to replicate our [study](https://www.pn
 ## Citation 
 > Nelson A. Roque, Hailey Andrews and Alexis R. Santos-Lozada. (2025) Addressing disparities in air quality monitoring in the United States: Where are our Monitoring Deserts? *Proceedings of the National Academy of Sciences*. DOI: Forthcoming. 
 
-### Affiliations 
+### Authors 
 #### (Corresponding author in bold)
 **Nelson A. Roque** $^{1,2}$, Hailey Andrews $^{2}$ and Alexis R. Santos-Lozada $^{1,2}$.
 
