@@ -7,9 +7,9 @@
 **Manuscript ID**: 2024-25310R
 
 ## Authors (lead author in bold)
-**Nelson A. Roque** {1,2}
-Hailey Andrews {2}
-Alexis R. Santos-Lozada {1,2}
+**Nelson A. Roque** ^{1,2}
+Hailey Andrews ^{2}
+Alexis R. Santos-Lozada ^{1,2}
 
 ### Affiliations
 1. Department of Human Development and Family Studies, The Pennsylvania State University, University Park, PA 16802 
