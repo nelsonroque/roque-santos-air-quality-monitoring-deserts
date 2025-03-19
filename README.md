@@ -1,4 +1,4 @@
-# Addressing disparities in air quality monitoring in the United States: Where are our Monitoring Deserts?
+# Identifying Air Quality Monitoring Deserts in the United States
 
 ## Introduction
 Here we provide the code and data needed to replicate our [study](https://www.pnas.org/) provisionally accepted at [Proceedings of the National Academy of Sciences](https://www.pnas.org/).
