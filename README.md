@@ -1,10 +1,4 @@
-# Pipeline for PNAS Manuscript
-
-## Publication Information
-
-**Title**: Addressing disparities in air quality monitoring in the United States: Where are our Monitoring Deserts?
-
-**Manuscript ID**: 2024-25310R
+# Addressing disparities in air quality monitoring in the United States: Where are our Monitoring Deserts?
 
 ## Authors (lead author in bold)
 **Nelson A. Roque** $^{1,2}$, Hailey Andrews $^{2}$ and Alexis R. Santos-Lozada $^{1,2}$
