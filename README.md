@@ -1,9 +1,11 @@
 # Addressing disparities in air quality monitoring in the United States: Where are our Monitoring Deserts?
 
-## Authors (lead author in bold)
-**Nelson A. Roque** $^{1,2}$, Hailey Andrews $^{2}$ and Alexis R. Santos-Lozada $^{1,2}$
+## Citation (Lead author in Bold)
+> **Nelson A. Roque**, Hailey Andrews and Alexis R. Santos-Lozada. (2025) Addressing disparities in air quality monitoring in the United States: Where are our Monitoring Deserts?. *Proceedings of the National Academy of Sciences*.
 
 ### Affiliations
+**Nelson A. Roque** $^{1,2}$, Hailey Andrews $^{2}$ and Alexis R. Santos-Lozada $^{1,2}$.
+
 $^{1}$ Department of Human Development and Family Studies, The Pennsylvania State University, University Park, PA 16802 
 
 $^{2}$ Center for Healthy Aging, The Pennsylvania State University, University Park, PA 16802
