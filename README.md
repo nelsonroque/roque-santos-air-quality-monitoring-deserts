@@ -10,9 +10,9 @@
 **Nelson A. Roque** $^{(1,2)}$, Hailey Andrews $^{(2)}$ and Alexis R. Santos-Lozada $^{(1,2)}$
 
 ### Affiliations
-1. Department of Human Development and Family Studies, The Pennsylvania State University, University Park, PA 16802 
+$^{1}$. Department of Human Development and Family Studies, The Pennsylvania State University, University Park, PA 16802 
 
-2. Center for Healthy Aging, The Pennsylvania State University, University Park, PA 16802
+$^{2}$. Center for Healthy Aging, The Pennsylvania State University, University Park, PA 16802
 
 -----
 
