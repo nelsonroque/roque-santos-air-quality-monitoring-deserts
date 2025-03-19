@@ -4,7 +4,7 @@
 Here we provide the code and data needed to replicate our [study](https://www.pnas.org/) provisionally accepted at [Proceedings of the National Academy of Sciences](https://www.pnas.org/).
 
 ## Citation 
-> Nelson A. Roque, Hailey Andrews and Alexis R. Santos-Lozada. (2025) Identifying Air Quality Monitoring Deserts in the United States. *Proceedings of the National Academy of Sciences*. DOI: Forthcoming. 
+> Nelson A. Roque, Hailey Andrews and Alexis R. Santos-Lozada. (2025) Identifying Air Quality Monitoring Deserts in the United States.
 
 ### Authors 
 #### (Corresponding author in bold)
