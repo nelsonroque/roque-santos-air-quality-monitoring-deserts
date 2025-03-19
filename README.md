@@ -1,7 +1,7 @@
 # Addressing disparities in air quality monitoring in the United States: Where are our Monitoring Deserts?
 
 ## Introduction
-Here we provide the code and data needed to replicate our [study](https://www.pnas.org/).
+Here we provide the code and data needed to replicate our [study](https://www.pnas.org/) published in [Proceedings of the National Academy of Sciences](https://www.pnas.org/).
 
 ## Citation 
 > Nelson A. Roque, Hailey Andrews and Alexis R. Santos-Lozada. (2025) Addressing disparities in air quality monitoring in the United States: Where are our Monitoring Deserts? *Proceedings of the National Academy of Sciences*. DOI: Forthcoming. 
