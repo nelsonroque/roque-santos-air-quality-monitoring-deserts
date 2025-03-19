@@ -32,4 +32,4 @@ If you require any support, we ask that you please [create an issue](https://git
 
 -----
 # Metadata
-This repository is managed by [Dr. Nelson Roque](https://scholar.google.com/citations?user=V2TU7zMAAAAJ) with support of Dr. Alexis R. Santos (https://scholar.google.com/citations?user=oPZ-RDgAAAAJ).
+This repository is managed by [Dr. Nelson Roque](https://scholar.google.com/citations?user=V2TU7zMAAAAJ) with support of [Dr. Alexis R. Santos](https://scholar.google.com/citations?user=oPZ-RDgAAAAJ).
