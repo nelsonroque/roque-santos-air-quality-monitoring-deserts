@@ -13,10 +13,10 @@ source("scripts/load_libs.R")
 # Set tigris options for caching and spatial data handling
 options(tigris_class = "sf", tigris_use_cache = TRUE)
 
-# Get your Census API Key Here: XXXXXXXXXX
-# NOTE TO SELF - Don't push to Github with `key` specified!
+# Get your Census API Key Here:
+#https://api.census.gov/data/key_signup.html
 census_api_key(
-  key = "a21315335a029bd22b9c0e08b119340dcfb32b10", install = T,
+  key = "XXXXXXX", install = T,
   overwrite = T
 )
 
