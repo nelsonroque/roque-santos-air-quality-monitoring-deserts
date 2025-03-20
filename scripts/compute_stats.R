@@ -62,7 +62,7 @@ sum(station_list$is_station_open, na.rm = TRUE)
 
 # Both Connecticut† and Delaware have full coverage with all counties
 # having a monitoring site.
-tbl_s1 %>% filter(state_name %in% c(
+tbl_s1_hasmonitor %>% filter(state_name %in% c(
   "Connecticut", "Delaware"
 )) %>%
   arrange(-rate) %>%
@@ -76,7 +76,7 @@ tbl_s1 %>% filter(state_name %in% c(
 # At the state-level, more than 75% of the counties in
 # Arkansas, Georgia, Mississippi, Texas and Virginia are
 # classified as air quality monitoring deserts.
-tbl_s1_filt = tbl_s1 %>%
+tbl_s1_filt = tbl_s1_hasmonitor %>%
   filter(state_name %in% c(
   "Arkansas", "Iowa", "Kansas", "Nebraska", "South Dakota", "Georgia",
   "Mississippi", "Texas", "Virginia"
@@ -89,7 +89,7 @@ tbl_s1_filt %>%
   knitr::kable(.) %>% kableExtra::kable_styling()
 
 # Maryland, 25%
-tbl_s1 %>% filter(state_name %in% c(
+tbl_s1_hasmonitor %>% filter(state_name %in% c(
   "Maryland"
 )) %>%
   arrange(-rate) %>%

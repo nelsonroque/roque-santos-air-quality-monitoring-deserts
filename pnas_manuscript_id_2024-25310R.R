@@ -27,7 +27,7 @@ EPA_SITE_FN = "data/aqs_sites_03_16_25.csv"
 
 source("scripts/prepare_epa_data.R")
 source("scripts/prepare_rucc_data.R")
-#source("scripts/download_census_data.R")
+source("scripts/download_census_data.R")
 source("scripts/prepare_census_data.R")
 source("scripts/merge_datasets.R")
 source("scripts/filter_south_belt.R")
