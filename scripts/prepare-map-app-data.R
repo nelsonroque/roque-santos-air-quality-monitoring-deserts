@@ -13,16 +13,20 @@ map_app_df <- merged %>%
 map_app_clean <- map_app_df %>%
   mutate(population = b01001_001e) %>%
   select(-b01001_001e) %>%
+  # Transform to WGS84
   st_transform(4326) %>%
-  mutate(centroid = st_centroid(geometry)) %>%
+  # Fix invalid geometries
+  mutate(geometry = st_make_valid(geometry)) %>%
+  # Now calculate coordinates safely
   mutate(
-    longitude = map_dbl(centroid, ~st_coordinates(.x)[1]),
-    latitude = map_dbl(centroid, ~st_coordinates(.x)[2])
+    coords = st_coordinates(st_centroid(geometry)),
+    longitude = coords[,1],
+    latitude = coords[,2]
   ) %>%
-  select(-centroid)
-
-# Remove the temporary column
-  #st_drop_geometry() %>%
+  rowwise() %>%
+  mutate(coordinates = list(c(latitude, longitude))) %>%
+  st_drop_geometry() %>%
+  select(-coords, -longitude, -latitude) %>%
   # per capita (per 1000 people)
   mutate(n_open_per_capita = format((n_open_stations / population)*1000, scientific=FALSE)) %>%
   # per land area
